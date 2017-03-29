@@ -1,0 +1,6 @@
+[package]
+name = "server"
+version = "0.0.1"
+authors = ["br382 <br382@drexel.edu>"]
+
+[dependencies]
